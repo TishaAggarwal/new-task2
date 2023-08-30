@@ -1,0 +1,449 @@
+/* Sidebar.css */
+.titl {
+  width: 158.76px;
+   height: 113px ;
+    margin-left:320px;
+    margin-top:100px;
+}
+
+.titl1 {
+  width: 158.76px;
+   height: 113px ;
+    margin-left:50px;
+    margin-top:100px;
+}
+.titl2 {
+  width: 158.76px;
+   height: 113px;
+   margin-left:50px;
+  margin-top:100px ;
+}
+
+.titl3 {
+  width: 158.76px;
+  height: 113px ;
+   margin-left:50px;
+   margin-top:100px;
+}
+
+.titl4 {
+   width: 158.76px;
+    height: 113px ;
+     margin-left:50px;
+     margin-top:100px;
+}
+
+.para1 {
+   color: white;
+    margin-top: -90px ;
+     margin-left:320px;
+}
+
+.para2 {
+   color: white;
+    margin-top: -90px;
+    margin-left:90px;
+}
+
+.para3 {
+  color: white;
+    margin-top: -90px ;
+     margin-left:80px ;
+}
+
+.para4 {
+   color: white;
+     margin-top: -90px ;
+      margin-left:80px ;
+}
+
+.para5 {
+  color: white;
+    margin-top: -90px ;
+   margin-left:80px;
+}
+
+.box-number {
+    color:white;
+    margin-top:35px;
+    margin-left: 430px;
+  }
+
+
+  .box-number1 {
+    color:white;
+    margin-top: 40px;
+    margin-left: 170px;
+  }
+
+  .box-number2 {
+    color:white;
+   margin-top: 25px;
+    margin-left: 160px;
+  }
+
+  .box-number3 {
+    color:white;
+    margin-top: 25px;
+  margin-left: 160px;
+  }
+
+  .box-number4 {
+    color:white;
+    margin-top: 25px;
+    margin-left: 160px;
+  }
+
+  .light {
+    width:800px;
+    height:350px;
+    border-radius:6px;
+    margin-top:250px;
+    margin-left:-800px;
+  }
+
+  .man {
+    width: 310px;
+height: 550px;
+padding-bottom: 50px;
+  }
+
+  .revenue {
+    width:400px;
+    height:250px;
+   margin-top: -250px;
+    margin-left:-200px;
+
+  }
+
+  .student {
+    width:300px;
+    height:250px;
+    margin-top: 700px;
+    margin-left:-650px;
+  }
+    
+  .pie-chart-container1 {
+    margin-top:800px;
+    margin-left:-900px;
+  }
+
+  .pie-chart-container {
+ 
+    margin-top:800px;
+    margin-left:50px;
+  }
+
+  .notice{
+  
+margin-left: -950px;
+margin-top: 1300px;
+  width: 900px;
+  height: 200px;
+
+  }
+
+  .calendar {
+    margin-left: -900px;
+    margin-top: 1550px;
+  
+    width: 440px;
+  height: 280px;
+  }
+
+  .todo {
+    margin-left: 100px;
+  margin-top: 1550px;
+padding-bottom: 60px;
+    width: 255px;
+    height: 270px;
+  }
+
+
+  @media screen and (max-width: 767px) {   
+  
+    .div80 {
+   margin-left:-300px;
+    } 
+  
+    .titl {
+      width:80px;
+      height: 80px;
+    }
+  
+    .para1{
+      font-size: x-small;
+    }
+
+    .box-number{
+      margin-left: 360px;
+    
+    }
+
+    .titl1 {
+      width:140px;
+      height: 90px;
+      margin-left: -250px;
+    }
+
+    .para2 {
+      font-size: x-small;
+       margin-top: -90px;
+       margin-left:-50px;
+   }
+
+   .box-number1 {
+    margin-top: 40px;
+    margin-left: -10px;
+   }
+
+   .titl2 {
+    width: 200px;
+     height: 90px;
+     margin-left: -120px;
+  }
+
+  .para3 {
+       margin-left:-110px ;
+       font-size: x-small;
+  }
+
+  .box-number2 {
+   margin-top: 40px;
+    margin-left: -70px;
+  }
+
+  .titl3 {
+    width: 260px;
+    height: 90px ;
+     margin-left:-180px;
+     margin-top:100px;
+  }
+
+  .para4 {
+      margin-top: -90px ;
+       margin-left:-170px ;
+       font-size: x-small;
+ }
+
+ .box-number3 {
+  margin-top: 40px;
+  margin-left: -130px;
+}
+
+.titl4 {
+  width: 330px;
+   height: 90px ;
+  margin-left: -245px;
+}
+
+.para5 {
+    margin-top: -90px ;
+   margin-left:-230px;
+   font-size: x-small;
+}
+
+.box-number4 {
+  margin-left: -190px;
+  margin-top: 40px;
+}
+
+.light {
+
+  margin-left:-700px;
+}
+   
+  }
+
+  @media screen and (max-width: 767px) and (min-width:551px) {   
+  
+    .div80 {
+   margin-left:-300px;
+    } 
+  
+    .titl {
+      width:80px;
+      height: 90px;
+    }
+  
+    .para1{
+      font-size: x-small;
+    }
+
+    .box-number{
+      margin-left: 360px;
+    
+    }
+
+    .titl1 {
+      width:140px;
+      height: 90px;
+      margin-left: -60px;
+    }
+
+    .para2 {
+      font-size: x-small;
+       margin-top: -90px;
+       margin-left:-50px;
+   }
+
+   .box-number1 {
+    margin-top: 40px;
+    margin-left: -10px;
+   }
+
+   .titl2 {
+    width: 200px;
+     height: 90px;
+     margin-left: -120px;
+  }
+
+  .para3 {
+       margin-left:-110px ;
+       font-size: x-small;
+  }
+
+  .box-number2 {
+   margin-top: 40px;
+    margin-left: -70px;
+  }
+
+  .titl3 {
+    width: 260px;
+    height: 90px ;
+     margin-left:-180px;
+     margin-top:100px;
+  }
+
+  .para4 {
+      margin-top: -90px ;
+       margin-left:-170px ;
+       font-size: x-small;
+ }
+
+ .box-number3 {
+  margin-top: 40px;
+  margin-left: -130px;
+}
+
+.titl4 {
+  width: 330px;
+   height: 90px ;
+  margin-left: -245px;
+}
+
+.para5 {
+    margin-top: -90px ;
+   margin-left:-230px;
+   font-size: x-small;
+}
+
+.box-number4 {
+  margin-left: -190px;
+  margin-top: 40px;
+}
+   
+  }
+
+  @media screen and (max-width: 551px) {   
+  
+    .div80 {
+   margin-left:-300px;
+    } 
+  
+    .titl {
+      width:60px;
+      height: 70px;
+    }
+  
+    .para1{
+      font-size: xx-small;
+        margin-top: -60px;
+    }
+  
+    .box-number{
+      font-size: small;
+      margin-left: 350px;
+    margin-top:20px ;
+    }
+  
+    .titl1 {
+      width:180px;
+      height: 70px;
+      margin-left: -120px;
+    }
+  
+    .para2 {
+      font-size: xx-small;
+       margin-top: -60px;
+       margin-left:-115px;
+   }
+  
+   .box-number1 {
+   font-size: small;
+    margin-top: 20px;
+    margin-left: -85px;
+   }
+  
+   .titl2 {
+  
+    width: 295px;
+     height: 70px;
+     margin-left: -235px;
+  }
+  
+  .para3 {
+       margin-left:-230px ;
+       margin-top: -60px;
+       font-size: xx-small;
+  }
+  
+  .box-number2 {
+    font-size: small;
+   margin-top: 20px;
+    margin-left: -200px;
+  }
+  
+  .titl3 {
+    width: 410px;
+    height: 75px ;
+     margin-left:-350px;
+     margin-top:99px;
+  }
+  
+  .para4 {
+      margin-top: -65px ;
+       margin-left:-345px ;
+       font-size: xx-small;
+  }
+  
+  .box-number3 {
+   font-size: small;
+  margin-top: 20px;
+  margin-left: -315px;
+  }
+  
+  .titl4 {
+  width: 525px;
+   height: 75px ;
+  margin-left: -465px;
+  margin-top: 97px;
+  }
+  
+  .para5 {
+    margin-top: -65px ;
+   margin-left:-455px;
+   font-size: xx-small;
+  }
+  
+  .box-number4 {
+    font-size: small;
+  margin-left: -430px;
+  margin-top: 23px;
+  }
+
+  .light {
+    margin-left:-900px;
+  }
+   
+  }

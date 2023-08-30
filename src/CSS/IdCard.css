@@ -1,0 +1,194 @@
+
+.id1{
+        width: 867px;
+        height: 83px;  
+        left: 420px;
+        border-radius: 10px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 200px;  
+   
+}
+
+.id2{
+
+        width: 161px;
+        height: 41px;  
+        left: 1179px;
+        border-radius: 20px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 310px;  
+   
+}
+
+.id3{
+
+        width: 371px;
+        height: 45px;  
+        left: 440px;
+        border:2px solid black;
+        border-radius: 10px;  
+        position: absolute;
+        z-index: 1;
+        top: 500px;  
+   
+}
+
+.id4{
+
+        width: 371px;
+        height: 45px;  
+        left: 900px;
+        border:2px solid black;
+        border-radius: 10px;  
+        position: absolute;
+        z-index: 1;
+        top: 499px;  
+    
+}
+
+.id5{
+
+        width: 151px;
+        height: 41px;  
+        left: 785px;
+        border-radius: 20px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 680px;  
+    
+}
+
+.id6{
+
+        width: 865px;
+        height: 216px;  
+        left: 420px;
+        border:2px solid #215D4F;
+        border-radius: 15px;  
+        position: absolute;
+        z-index: 1;
+        top: 400px;  
+   
+}
+
+
+
+@media screen and (max-width: 767px) and (min-width:528px) {
+    .id1{
+        width: 450px;
+        height: 83px;  
+        left: 80px;
+        top: 200px;  
+   
+}
+
+.id2{
+
+        width: 161px;
+        height: 41px;  
+        left: 400px;
+        top: 310px;  
+   
+}
+
+.id3{
+
+        width: 160px;
+        height: 45px;  
+        left: 300px;
+        top: 500px;  
+   
+}
+
+.id4{
+
+        width: 160px;
+        height: 45px;  
+        left: 70px;
+        top: 499px;  
+    
+}
+
+.id5{
+
+        width: 151px;
+        height: 41px;  
+        left: 100px;
+        top: 680px;  
+    
+}
+
+.id6{
+
+        width: 500px;
+        height: 216px;  
+        left: 50px;
+        top: 400px;  
+   
+}
+
+
+}
+
+@media screen and (max-width:528px) {
+
+    .id1{
+        width: 290px;
+        height: 63px;  
+        left: 40px;
+        top: 200px;  
+   
+}
+
+.id2{
+
+        width: 161px;
+        height: 41px;  
+        left: 200px;
+        top: 290px;  
+   
+}
+
+.id3{
+
+        width: 100px;
+        height: 45px;  
+        left: 200px;
+        top: 430px;  
+   
+}
+
+.id4{
+
+        width: 100px;
+        height: 45px;  
+        left: 70px;
+        top: 430px;  
+    
+}
+
+.id5{
+
+        width: 151px;
+        height: 41px;  
+        left: 120px;
+        top: 570px;  
+    
+}
+
+.id6{
+
+        width: 300px;
+        height: 150px;  
+        left: 40px;
+        top: 380px;  
+   
+}
+
+
+}

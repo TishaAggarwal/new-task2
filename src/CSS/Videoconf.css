@@ -1,0 +1,409 @@
+
+.arrow {
+    width:20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .p-text {
+    width:296px;
+    height: 31px;
+   font-size:32px;
+   font-weight: 500;
+  
+  }
+  
+  .square {
+    width:45px;
+    height: 45px;
+  }
+  
+  .frames {
+    width:37.5px;
+    height: 33.75px;
+  }
+  
+  .three-dots {
+    width:9px;
+    height: 36px;
+    top: 134px;
+    left: 1385px;
+  }
+  
+  .Caroline {
+    width:283px;
+    height: 170px;
+  }
+  
+  .big-pic {
+    width:1190px;
+  height :472px;
+  top:424px;
+  left :180px;
+  }
+  .call-btn {
+    width:610px;
+    height :70px;
+    top:922px;
+    left :465px;
+  }
+
+  .video1 {
+        width: 60px;
+        height: 60px; 
+        left: 350px;
+        border-radius: 30px;  
+        background-color:#353535;
+        position: absolute;
+        z-index: 1;
+        top: 190px;  
+    
+  }
+
+  .video2 {
+    
+          width: 269px;
+          height: 31px; 
+          left: 450px;
+          position: absolute;
+          z-index: 1;
+          top: 190px;  
+     
+  }
+  .video3 {
+
+        width: 45px;
+        height: 45px; 
+        left: 1300px;
+        position: absolute;
+        z-index: 1;
+        top: 190px;  
+    
+  }
+  .video4 {
+
+        width: 45px;
+        height: 45px; 
+        left: 1380px;
+        position: absolute;
+        z-index: 1;
+        top: 195px;  
+    
+  }
+  .video5 {
+
+        width: 45px;
+        height: 45px; 
+        left: 1450px;
+        position: absolute;
+        z-index: 1;
+        top: 193px;  
+   
+  }
+  .video6 {
+
+        width: 815px;
+        height: 1020px; 
+        left: 350px;
+        position: absolute;
+        z-index: 1;
+        top: 270px;  
+   
+  }
+  .video7 {
+
+        width: 815px;
+        height: 1020px; 
+        left: 650px;
+        position: absolute;
+        z-index: 1;
+        top: 270px;  
+    
+  }
+  .video8 {
+
+        width: 815px;
+        height: 1020px; 
+        left: 950px;
+        position: absolute;
+        z-index: 1;
+        top: 270px;  
+    
+  }
+  .video9 {
+
+        width: 815px;
+        height: 1020px; 
+        left: 1250px;
+        position: absolute;
+        z-index: 1;
+        top: 270px;  
+    
+  }
+  .video10 {
+
+        width: 1500px;
+        height: 1000px; 
+        left: 350px;
+        border-radius:25px;
+        position: absolute;
+        z-index: 1;
+        top: 450px;  
+    
+  }
+  .video11 {
+
+        width: 815px;
+        height: 1000px; 
+        left: 620px;
+        position: absolute;
+        z-index: 1;
+        top: 1000px;  
+   
+  }
+ 
+  
+  @media screen and (max-width: 767px) and (min-width:528px)  {
+      
+    .arrow {
+        width:20px;
+        height: 20px;
+        margin-left: 20px;
+        margin-top: 20px;
+      }
+      
+      .p-text {
+        width:296px;
+        height: 31px;
+       font-size:22px;
+       font-weight: 500;
+      
+      }
+      
+      .square {
+        width:35px;
+        height: 35px;
+      }
+      
+      .frames {
+        width:30px;
+        height: 30px;
+      }
+      
+      .three-dots {
+        width:9px;
+        height: 30px;
+        top: 134px;
+        left: 1385px;
+      }
+      
+      .Caroline {
+        width:150px;
+        height: 100px;
+      }
+      
+      .big-pic {
+        width:600px;
+      height :300px;
+      top:424px;
+      left :180px;
+      }
+      .call-btn {
+        width:310px;
+        height :50px;
+        top:922px;
+        left :465px;
+      }
+    
+      .video1 {
+            left: 20px;
+            top: 190px;  
+        
+      }
+    
+      .video2 {
+        
+              width: 269px;
+              height: 31px; 
+              left: 100px;
+              top: 190px;  
+         
+      }
+      .video3 {
+    
+            width: 45px;
+            height: 45px; 
+            left: 450px;
+            position: absolute;
+            z-index: 1;
+            top: 194px;  
+        
+      }
+      .video4 {
+    
+            width: 45px;
+            height: 45px; 
+            left: 530px;
+            position: absolute;
+            z-index: 1;
+            top: 195px;  
+        
+      }
+      .video5 {
+    
+            width: 45px;
+            height: 45px; 
+            left: 620px;
+            position: absolute;
+            z-index: 1;
+            top: 195px;  
+       
+      }
+      .video6 {
+    
+            width: 815px;
+            height: 1020px; 
+            left: 20px;
+            position: absolute;
+            z-index: 1;
+            top: 270px;  
+       
+      }
+      .video7 { 
+            left: 190px;
+            top: 270px;  
+        
+      }
+      .video8 {
+            left: 355px;
+            top: 270px;  
+        
+      }
+      .video9 {
+            left: 520px;
+            top: 270px;  
+        
+      }
+      .video10 {
+            left: 50px;
+            top: 430px;  
+        
+      }
+      .video11 { 
+            left: 200px;
+            top: 800px;  
+       
+      }
+   
+  }
+
+  @media screen and (max-width:528px) {
+
+    .arrow {
+        width:10px;
+        height: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+      
+      .p-text {
+       font-size:15px;
+       font-weight: 500;
+      
+      }
+      
+      .square {
+        width:25px;
+        height: 25px;
+      }
+      
+      .frames {
+        width:15px;
+        height: 15px;
+      }
+      
+      .three-dots {
+        width:5px;
+        height: 20px;
+        top: 134px;
+        left: 1385px;
+      }
+      
+      .Caroline {
+        width:60px;
+        height: 40px;
+      }
+      
+      .big-pic {
+        width:350px;
+      height :150px;
+      top:424px;
+      left :180px;
+      }
+      .call-btn {
+        width:200px;
+        height :40px;
+        top:922px;
+        left :465px;
+      }
+    
+      .video1 {
+            left: 10px;
+            top: 170px; 
+            width:30px ; 
+            height: 30px;
+        
+      }
+    
+      .video2 {
+              left: 50px;
+              top: 170px;  
+         
+      }
+      .video3 {
+            left: 250px;
+            top: 170px;  
+        
+      }
+      .video4 { 
+            left: 300px;
+            top: 175px;  
+        
+      }
+      .video5 { 
+            left: 340px;
+            top: 173px;  
+       
+      }
+      .video6 {
+            left: 40px;
+            top: 240px;  
+       
+      }
+      .video7 { 
+            left: 120px;
+            top: 240px;  
+        
+      }
+      .video8 {
+            left: 200px;
+            top: 240px;  
+        
+      }
+      .video9 {
+            left: 280px;
+            top: 240px;  
+        
+      }
+      .video10 {
+            left: 20px;
+            top: 310px;  
+        
+      }
+      .video11 { 
+            left: 100px;
+            top: 500px;  
+       
+      }
+  }

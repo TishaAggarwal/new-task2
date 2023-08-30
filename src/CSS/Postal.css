@@ -1,0 +1,788 @@
+
+.pp2 {
+color:black;
+ margin-bottom:10px;
+ margin-top:5px;
+ }
+
+ .pp3 {
+    color:#215D4F;
+    margin-left:10px;
+     margin-top:11px;
+
+ }
+
+ .pp4 {
+    color:black;
+     margin-left:33px;
+     margin-top:5px;
+ }
+
+ .pp5 {
+    color:black;
+     margin-left:70px;
+    margin-top:5px;
+ }
+
+.postal1 {
+        width: 990px;
+        height: 43px;  
+        left: 350px;
+        border:1px solid black;
+        border-radius: 10px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 190px;  
+    
+}
+
+.postal2 {
+        width: 200px;
+        height: 35px;  
+        left: 360px;
+        border-radius: 10px;  
+        border:2px solid black;
+        position: absolute;
+        z-index: 1;
+        top: 250px;  
+    
+}
+
+
+.postal3 {
+        width: 200px;
+        height: 35px; 
+      left: 580px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 250px; 
+ 
+}
+
+
+.postal4 {
+        width: 200px;
+        height: 35px;  
+      left: 800px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 250px;  
+ 
+}
+
+
+.postal5 {
+
+        width: 200px;
+        height: 35px;  
+      left: 1020px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 250px;  
+  
+}
+
+
+.postal6 {
+        width: 200px;
+        height: 35px;  
+      left: 360px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 300px;  
+  
+}
+
+
+.postal7 {
+        width: 200px;
+        height: 35px;  
+      left: 580px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 300px;  
+  
+}
+
+
+.postal8 {
+        width: 200px;
+        height: 35px; 
+      left: 800px;
+      background-color:#D9D9D9;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 300px;  
+ 
+}
+
+
+.postal9 {
+        width: 100px;
+        height: 35px;  
+        left: 1100px;
+        border-radius: 10px;  
+        border:1px solid black;
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 370px;  
+   
+}
+
+
+.postal10 {
+        width: 990px;
+        height: 200px;  
+        left: 350px;
+        border:2px solid #215D4F;
+        border-radius: 15px;  
+        position: absolute;
+        z-index: 1;
+        top: 240px;  
+    
+}
+
+
+.postal11 {
+        width: 990px;
+        height: 53px;  
+        left: 350px;
+        border:1px solid black;
+        border-radius: 10px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 460px;  
+   
+}
+
+
+.postal12 {
+        width: 990px;
+        left: 350px;
+        border: 2px solid #215D4F;
+        border-radius: 10px; 
+        position: absolute;
+        z-index: 1;
+        top: 520px; 
+    
+}
+
+
+.postal13 {
+        width: 990px;
+        height: 53px;  
+        left: 350px;
+        border:1px solid black;
+        border-radius: 10px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 770px;  
+   
+}
+
+
+.postal14 {
+        width: 200px;
+        height: 35px;  
+        left: 370px;
+        border-radius: 10px;  
+        border:2px solid black;
+        position: absolute;
+        z-index: 1;
+        top: 850px;  
+   
+}
+
+
+.postal15 {
+        width: 200px;
+        height: 35px;   
+      left: 590px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 850px;  
+  
+}
+
+
+.postal16 {
+        width: 200px;
+        height: 35px;  
+      left: 820px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 850px;  
+  
+}
+
+
+.postal17 {
+        width: 200px;
+        height: 35px;  
+      left: 1050px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 850px;  
+ 
+}
+
+
+.postal18 {
+        width: 200px;
+        height: 35px;
+      left: 370px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 900px;  
+ 
+}
+
+
+.postal19 {
+        width: 200px;
+        height: 35px; 
+      left: 595px;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 900px;  
+ 
+}
+
+
+.postal20 {
+        width: 200px;
+        height: 35px;  
+      left: 820px;
+      background-color:#D9D9D9;
+      border-radius: 10px;  
+      border:2px solid black;
+      position: absolute;
+      z-index: 1;
+      top: 900px;  
+  
+}
+
+
+.postal21 {
+        width: 200px;
+            height: 35px; 
+          left: 1100px;
+          border-radius: 10px;  
+          border:1px solid black;
+          background-color: #215D4F;
+          position: absolute;
+          z-index: 1;
+          top: 1000px;  
+      
+}
+.postal22 {
+        width: 990px;
+        height: 204px;  
+        left: 350px;
+        border:2px solid #215D4F;
+        border-radius: 15px;  
+        position: absolute;
+        z-index: 1;
+        top: 840px;  
+   
+}
+
+.postal23 {
+
+        width: 990px;
+        height: 53px;  
+        left: 350px;
+        border:1px solid black;
+        border-radius: 10px;  
+        background-color: #215D4F;
+        position: absolute;
+        z-index: 1;
+        top: 1060px;  
+    
+}
+
+.postal24 {
+
+    width: 990px;
+    left: 350px;
+    border: 2px solid #215D4F;
+    border-radius: 10px; 
+    position: absolute;
+    z-index: 1;
+    top: 1150px;  
+
+}
+
+@media screen and (max-width: 767px) and (min-width:528px) {
+
+    .pp5 {
+         margin-left:30px;
+     }
+    .postal1 {
+        width: 530px;
+        height: 43px;  
+        left: 20px;
+        top: 190px;  
+    
+}
+
+.postal2 {
+        width: 120px;
+        height: 35px;  
+        left: 30px;
+        top: 250px;  
+    
+}
+
+
+.postal3 {
+    width: 120px;
+    height: 35px; 
+      left: 160px;
+      top: 250px; 
+ 
+}
+
+
+.postal4 {
+    width: 100px;
+    height: 35px;   
+      left: 290px;
+      top: 250px;  
+ 
+}
+
+
+.postal5 {
+    width: 120px;
+    height: 35px;  
+      left: 400px;
+      top: 250px;  
+  
+}
+
+
+.postal6 {
+    width: 120px;
+    height: 35px; 
+      left:30px;
+      top: 300px;  
+  
+}
+
+
+.postal7 {
+    width: 120px;
+    height: 35px; 
+      left: 160px;
+      top: 300px;  
+  
+}
+
+
+.postal8 {
+    width: 100px;
+    height: 35px;  
+      left: 290px;
+      top: 300px;  
+ 
+}
+
+
+.postal9 {
+        width: 100px;
+        height: 35px;  
+        left: 450px;
+        top: 370px;  
+   
+}
+
+
+.postal10 {
+        width: 540px;
+        height: 200px;  
+        left: 25px;
+        top: 240px;  
+    
+}
+
+
+.postal11 {
+        width: 530px;
+        height: 53px;  
+        left: 30px;
+        top: 460px;  
+   
+}
+
+
+.postal12 {
+        width: 540px;
+        left: 30px;
+        top: 520px; 
+    
+}
+
+
+.postal13 {
+        width: 540px;
+        height: 53px;  
+        left: 30px;
+        top: 770px;  
+   
+}
+
+
+.postal14 {
+        width: 120px;
+        height: 35px;  
+        left: 40px;
+        top: 850px;  
+   
+}
+
+
+.postal15 {
+        width: 120px;
+        height: 35px;   
+      left: 170px;
+      top: 850px;  
+  
+}
+
+
+.postal16 {
+        width: 100px;
+        height: 35px;  
+      left: 300px;
+      top: 850px;  
+  
+}
+
+
+.postal17 {
+        width: 150px;
+        height: 35px;  
+      left: 410px;
+      top: 850px;  
+ 
+}
+
+
+.postal18 {
+        width: 120px;
+        height: 35px;
+      left: 40px;
+      top: 900px;  
+ 
+}
+
+
+.postal19 {
+        width: 120px;
+        height: 35px; 
+      left: 170px;
+      top: 900px;  
+ 
+}
+
+
+.postal20 {
+        width: 100px;
+        height: 35px;  
+      left: 300px;
+      top: 900px;  
+  
+}
+
+
+.postal21 {
+        width: 100px;
+            height: 35px; 
+          left: 450px;
+          top: 1000px;  
+      
+}
+.postal22 {
+        width: 540px;
+        height: 204px;  
+        left: 30px;
+        top: 840px;  
+   
+}
+
+.postal23 {
+
+        width: 540px;
+        height: 53px;  
+        left: 30px;
+        top: 1060px;  
+    
+}
+
+.postal24 {
+
+    width: 540px;
+    left: 30px;
+    top: 1150px;  
+
+}
+}
+
+@media screen and (max-width:528px)  {
+
+     .pp2 {
+     font-size: xx-small;
+      }
+     
+      .pp3 {
+        font-size: xx-small;
+        margin-top: 20px;
+     
+      }
+     
+      .pp4 {
+        font-size: xx-small;
+      }
+     
+      .pp5 {
+        font-size: xx-small;
+        margin-left: 20px;
+      }
+     
+
+    .postal1 {
+        width: 340px;
+        height: 43px;  
+        left: 20px;
+        top: 190px;  
+    
+}
+
+.postal2 {
+        width: 70px;
+        height: 30px;  
+        left: 30px;
+        top: 250px;  
+    
+}
+
+
+.postal3 {
+    width: 70px;
+    height: 30px;  
+      left: 110px;
+      top: 250px; 
+ 
+}
+
+
+.postal4 {
+    width: 70px;
+    height: 30px;  
+      left: 190px;
+      top: 250px;  
+ 
+}
+
+
+.postal5 {
+    width: 70px;
+    height: 30px;   
+      left: 270px;
+      top: 250px;  
+  
+}
+
+
+.postal6 {
+    width: 70px;
+    height: 30px;  
+      left:30px;
+      top: 290px;  
+  
+}
+
+
+.postal7 {
+    width: 70px;
+    height: 30px;  
+      left: 110px;
+      top: 290px;  
+  
+}
+
+
+.postal8 {
+    width: 70px;
+    height: 30px;  
+      left: 190px;
+      top: 290px;  
+ 
+}
+
+
+.postal9 {
+    width: 70px;
+    height: 30px;  
+        left: 280px;
+        top: 370px;  
+   
+}
+
+
+.postal10 {
+        width: 340px;
+        height: 170px;  
+        left: 25px;
+        top: 240px;  
+    
+}
+
+.postal11 {
+        width: 340px;
+        height: 53px;  
+        left: 30px;
+        top: 430px;  
+   
+}
+
+
+.postal12 {
+        width: 385px;
+        left: 10px;
+        top: 490px; 
+    
+}
+
+
+.postal13 {
+        width: 390px;
+        height: 53px;  
+        left: 10px;
+        top: 770px;  
+   
+}
+
+
+.postal14 {
+        width: 70px;
+        height: 30px;  
+        left: 40px;
+        top: 850px;  
+   
+}
+
+
+.postal15 {
+    width: 70px;
+    height: 30px;   
+      left: 130px;
+      top: 850px;  
+  
+}
+
+
+.postal16 {
+    width: 70px;
+    height: 30px;   
+      left: 220px;
+      top: 850px;  
+  
+}
+
+
+.postal17 {
+    width: 70px;
+    height: 30px;  
+      left: 300px;
+      top: 850px;  
+ 
+}
+
+
+.postal18 {
+    width: 70px;
+    height: 30px;  
+      left: 40px;
+      top: 900px;  
+ 
+}
+
+
+.postal19 {
+    width: 70px;
+    height: 30px;  
+      left: 130px;
+      top: 900px;  
+ 
+}
+
+
+.postal20 {
+    width: 70px;
+    height: 30px;  
+      left: 220px;
+      top: 900px;  
+  
+}
+
+
+.postal21 {
+    width: 70px;
+    height: 30px;  
+          left: 320px;
+          top: 980px;  
+      
+}
+.postal22 {
+        width: 400px;
+        height: 204px;  
+        left: 10px;
+        top: 840px;  
+   
+}
+
+.postal23 {
+
+        width: 400px;
+        height: 53px;  
+        left: 10px;
+        top: 1060px;  
+    
+}
+
+.postal24 {
+
+    width: 400px;
+    left: 10px;
+    top: 1150px;  
+
+}
+}
