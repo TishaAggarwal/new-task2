@@ -34,8 +34,8 @@ function Dashboard() {
         <img src={require('../../images/Desktop67/Group 546.png')} alt="piechart" className='piechart2' />
         </div>
 
-        <h3 style={{marginLeft:'400px', marginTop:'-300px'}}>Revenue Report</h3>
-        <h3 style={{marginLeft:'950px', marginTop:'-20px'}}>Course Overview</h3>
+        <h3 className='heading1'>Revenue Report</h3>
+        <h3 className='heading2'>Course Overview</h3>
 
         <img src={require('../../images/Desktop67/Group 547.png')} alt="list" className='list1'/>
     <img src={require('../../images/Desktop67/Light.png')} alt="list" className='list2'/>

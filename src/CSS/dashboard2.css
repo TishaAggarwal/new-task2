@@ -1,3 +1,13 @@
+.heading1 {
+    margin-left:400px;
+        margin-top:-300px;
+}
+
+.heading2 {
+    margin-left:950px;
+     margin-top:-20px;
+}
+
 .div80 {
     width: 80%;
      display: flex;
@@ -66,9 +76,149 @@
 
 @media screen and (max-width: 767px) and (min-width:528px) {
     
+    .img1 {
+        width: 100px;
+         height: 100px; 
+         margin-left: -50px;
+    }
+    
+    
+    .p-img1 {
+        color: white;
+         margin-top: -90px;
+          margin-left: -40px ;
+          font-size: small;
+    }
+    
+    .img2 {
+        width: 100px;
+        height: 100px;
+          margin-left: 10px;
+           margin-top: 10px;
+    }
+    
+    .p-img2 {
+       color: white;
+        margin-top: -90px;
+         margin-left: 20px ;
+         font-size: small;
+    }
+    
+    .p-img3 {
+         color: white;
+             margin-top: -90px;
+             margin-left: 25px ;
+             font-size: small;
+    }
+    
+    .piechart1 {
+        width: 250px;
+        height:200px;
+         margin-left:10px;
+         margin-top:80px;
+    }
+    
+    .piechart2 {
+        width: 250px;
+        height:200px;
+       margin-left:300px;
+        margin-top:-200px;
+    }
+    
+    .list1 {
+       width:500px;
+       margin-left:20px;
+        margin-top:250px;
+    }
+    
+    .list2 {
+        width:500px;
+        margin-left:10px;
+         margin-top:50px;
+    }
+
+    .heading1 {
+        margin-left:100px;
+            margin-top:-230px;
+    }
+    
+    .heading2 {
+        margin-left:500px;
+         margin-top:-20px;
+    }
+    
 }
 
 
 @media screen and (max-width:528px) {
+    .img1 {
+        width: 70px;
+         height: 70px; 
+         margin-left: -40px;
+    }
+    
+    
+    .p-img1 {
+         margin-top: -60px;
+          margin-left: -40px ;
+          font-size: x-small;
+    }
+    
+    .img2 {
+        width: 70px;
+         height: 70px; 
+          margin-left: 2px;
+           margin-top: 10px;
+    }
+    
+    .p-img2 {
+       color: white;
+        margin-top: -60px;
+         margin-left: 10px ;
+         font-size: x-small;
+    }
+    
+    .p-img3 {
+         color: white;
+             margin-top: -60px;
+             margin-left: 5px ;
+             font-size: x-small;
+    }
+    
+    .piechart1 {
+        width: 130px;
+        height:100px;
+         margin-left:10px;
+         margin-top:60px;
+    }
+    
+    .piechart2 {
+        width: 130px;
+        height:100px;
+       margin-left:200px;
+        margin-top:-100px;
+    }
+    
+    .list1 {
+       width:300px;
+       margin-left:20px;
+        margin-top:130px;
+    }
+    
+    .list2 {
+        width:300px;
+        margin-left:10px;
+         margin-top:40px;
+    }
 
+    .heading1 {
+        margin-left:40px;
+            margin-top:-130px;
+    }
+    
+    .heading2 {
+        margin-left:320px;
+         margin-top:-20px;
+    }
+    
 }
